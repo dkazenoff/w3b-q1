@@ -1,3 +1,10 @@
+prereq/airdrop/node_modules
+prereq/airdrop/priv-1.json
+prereq/airdrop/dev-wallet.json
+prereq/airdrop/wba-wallet.json
+*wallet.json
+prereq/airdrop/convert*
+
 # Logs
 logs
 *.log
