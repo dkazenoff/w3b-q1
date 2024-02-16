@@ -1,4 +1,11 @@
 # w3b-q1
+To run:
+1. yarn aidrop 
+2. yarn transfer
+3. yarn enroll
+
+
+# Results
 $ ts-node ./transfer.ts
 Success! Check out your TX here:
     https://explorer.solana.com/tx/2a2qexZPNs9XCRBgF7BoHVzk3prZfDu4V6Qz3sgtB6kQmCGYVxpE9TCfHimpF29NsSYp3RB4WHB8SiAa8SiwN2uF?cluster=devnet
